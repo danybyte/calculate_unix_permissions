@@ -32,6 +32,6 @@ A simple interactive Python tool that generates Unix/Linux file permission strin
 
 ## Notes
 - This script only calculates permissions – it does not modify any real files.
--For symbolic links, the permissions shown are those you entered (though real Unix symlinks often have `lrwxrwxrwx` and the actual permissions are ignored). Use the script as a learning tool for permission strings.
+- For symbolic links, the permissions shown are those you entered (though real Unix symlinks often have `lrwxrwxrwx` and the actual permissions are ignored). Use the script as a learning tool for permission strings.
 
 ## Author: DanyByte
